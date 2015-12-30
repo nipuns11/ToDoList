@@ -2,9 +2,7 @@
 //  FirstViewController.swift
 //  ToDoList
 //
-//  Created by nipun sharma on 2015-10-11.
-//  Copyright © 2015 nipun. All rights reserved.
-//
+
 
 import UIKit
 
